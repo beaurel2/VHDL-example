@@ -4,5 +4,5 @@ This repository contains VHDL examples for the bachelor-level course [Design of 
 
 ## Installation(s)
 - [List of HDL Simulator](https://github.com/beaurel2/VHDL-examples/wiki/List_of_HDL_simulators)
-- [Ghdl install]((https://github.com/beaurel2/VHDL-examples/wiki/How-to-install-ghdl-on-Windows-and-Linux)
+- [Ghdl install](https://github.com/beaurel2/VHDL-examples/wiki/How-to-install-ghdl-on-Windows-and-Linux)
 - [EDA Playground](https://edaplayground.com/) Simulator (Online)
